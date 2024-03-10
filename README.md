@@ -1,2 +1,2 @@
 ## MyEMI is deployed in Netlify
-### URL : ![MyEMI](https://myemi.netlify.com)
+### URL : [MyEMI](https://myemi.netlify.com)
